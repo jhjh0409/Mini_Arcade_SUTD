@@ -1,6 +1,8 @@
 # Mini Arcade Games
 *Mini Arcade Games was done as part of the Computational Thinking module at Singapore University of Design and Technology (SUTD)*
 
+Note: Arcade.py is the main file, the rest are the mini-games that were coded separately before combining them together. Downloading only Arcade.py is sufficient to run the program.
+
 ### Description   
 This game is aimed at stressed SUTD students. The goal was to allow students to distress through a series of mini-games created using our newfound knowledge of Python to 
 create a better world by design. We plan to have these games displayed in the area above the Indoor Sports Hall where the food vending machines are. 
@@ -19,7 +21,7 @@ When the Python file is run, the user can choose one out of these 4 games to be 
 
 ## How to run the program
 1. Open command prompt on windows or terminal on mac.
-2. Navigate to the folder containing the python file. (etc. cd Term1\CTD\1D)
+2. Navigate to the folder containing the *arcade* python file. (etc. cd Term1\CTD\1D)
 3. Run the python file using py __filename__.py.
 4. Once file is run, choose the desired game by typing a number from 1-4.
 5. To play another game, close the open game window and rerun the python file.
