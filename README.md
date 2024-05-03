@@ -12,8 +12,8 @@ This arcade machine would contain 4 different mini-games. Snake, Space Shooter, 
 When the Python file is run, the user can choose one out of these 4 games to be played.
 
 ## Project Done By
-- Jatlyson Ang
-- Brandon Kim
+- Jatlyson Ang - https://github.com/jatlys
+- Brandon Kim - https://github.com/brandonkimchi
 - Zachary Lee 
 - Tok Jing Huan - https://github.com/jhjh0409
 - Alson Tay
